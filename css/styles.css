@@ -368,6 +368,9 @@ a {
   margin-left: auto;
 }
 .container-footer {
+  display: flex;
+}
+.container-logo {
   margin-left: 156px;
   margin-right: 120px;
 }
