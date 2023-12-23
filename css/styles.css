@@ -361,7 +361,6 @@ a {
 
 /* footer */
 .footer {
-  max-width: 1440px;
   background-color: #2e2f42;
   padding-top: 100px;
   padding-bottom: 100px;
@@ -372,10 +371,6 @@ a {
 .container-footer {
   display: flex;
   align-items: baseline;
-  width: 1158px;
-  margin: 0 auto;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 
 .container-logo {
